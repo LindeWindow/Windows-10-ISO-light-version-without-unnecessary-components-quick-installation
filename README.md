@@ -8,6 +8,7 @@ Quick and easy installation, there is a program for installation from a flash dr
 <li>From a torrent - you can download a file by clicking on the desired one in the list of files above. After selecting the file, you need to click "View raw".</li>
 <li>From mega.nz <a href="https://mega.nz/file/HlIhCKiB#3Pxt6m7DkReA6GHNPIl8i5UO4GlT1piNGetsoYJEFwE">here</a> </li> 
 <li>From mediafire.com  <a href="https://www.mediafire.com/file/m8flu56e4spinmj/Windows_10_PRO_x64.zip/file">here</a></li>
+<li>From Google Drive  <a href="https://drive.google.com/file/d/1ypJw7RxMw65obt7L6s7Ru86SIs4MAotw/view">here</a></li>
 </ul> 
 
 <h2>Account Flexibility</h2>
